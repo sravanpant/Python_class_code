@@ -27,8 +27,8 @@ l = [
     ["SE", "Swedish"],
 ]
 
-# lc.setlocale(lc.LC_ALL, "en_ZM")
-# print(lc.currency(12345678, grouping=True))
+lc.setlocale(lc.LC_ALL, "en_US.utf")
+print(lc.currency(12345678, grouping=True))
 
-for lang in lc.locale_alias.values():
-    print(lang)
+# for lang in lc.locale_alias.values():
+#     print(lang)
