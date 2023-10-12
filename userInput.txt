@@ -1,0 +1,3 @@
+python is a high level language
+Python is very human readable
+End

@@ -1,0 +1,3 @@
+test file for exercise 9 exception handling
+python is an easy language to learn
+python is a high level language which takes less time to write
